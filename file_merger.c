@@ -164,6 +164,6 @@ printf("Merging files");
    for(i=0;i<120;i++){
        printf("=");
    }
-   Sleep(3000);
+   Sleep(2500);
    return 0;
 }
