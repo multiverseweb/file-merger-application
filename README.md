@@ -25,9 +25,6 @@ Functions developed:
 
 - delete_file( ): This function will help the user to delete any text file.
 
-```
-Note: The final code may vary from the system proposed in synopsis, depending on the issues that will be faced in future.
-```
 
 ### Flowchart | File Merger Application
 
